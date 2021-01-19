@@ -1,0 +1,3296 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>6h Precipitation</VAR>
+<UNIT>mm/6h</UNIT>
+<PERIOD>20201204-20201212</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.233333319     </MEAN_OBS>
+ <STDV_OBS>   3.42102870E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>REF</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>   1.36462254E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.554147601     </BIAS>
+ <RMSE>  0.167981893     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7002 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.554097176     </BIAS>
+ <RMSE>  0.168868154     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.34782617E-02 </MEAN_OBS>
+ <STDV_OBS>  0.177242607     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>REF</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   4.50366437E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   3.77150178E-02 </BIAS>
+ <RMSE>  0.992771506     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.82856391E-02 </BIAS>
+ <RMSE>  0.992498279     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.847999990     </MEAN_OBS>
+ <STDV_OBS>   1.27179968     </STDV_OBS>
+ <EXP>
+ <ID>        3005 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.656029046     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.615738630     </BIAS>
+ <RMSE>  0.894286215     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3005 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.621335447     </BIAS>
+ <RMSE>  0.892271638     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.46399987     </MEAN_OBS>
+ <STDV_OBS>   2.28356361     </STDV_OBS>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.10942137     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.981138527     </BIAS>
+ <RMSE>  0.912189424     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.989895105     </BIAS>
+ <RMSE>  0.910540879     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.16800022     </MEAN_OBS>
+ <STDV_OBS>   2.59093475     </STDV_OBS>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.69694746     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.66038418     </BIAS>
+ <RMSE>  0.834789693     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64093971     </BIAS>
+ <RMSE>  0.838983476     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.04000008     </MEAN_OBS>
+ <STDV_OBS>   1.97267151     </STDV_OBS>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.874686360     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.25586736     </BIAS>
+ <RMSE>  0.771135032     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.25686896     </BIAS>
+ <RMSE>  0.770521402     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.431999952     </MEAN_OBS>
+ <STDV_OBS>   2.75511384     </STDV_OBS>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.610398352     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.19201481     </BIAS>
+ <RMSE>  0.983847558     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19010973     </BIAS>
+ <RMSE>  0.983818710     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.243999973     </MEAN_OBS>
+ <STDV_OBS>  0.753706455     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.493197709     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.409718543     </BIAS>
+ <RMSE>  0.977407336     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.408853471     </BIAS>
+ <RMSE>  0.976994812     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.819999993     </MEAN_OBS>
+ <STDV_OBS>   1.20804334     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.784644306     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.714798152     </BIAS>
+ <RMSE>  0.917441666     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.704610884     </BIAS>
+ <RMSE>  0.919200718     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.263999999     </MEAN_OBS>
+ <STDV_OBS>  0.677971303     </STDV_OBS>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.304736525     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.227203280     </BIAS>
+ <RMSE>  0.972451091     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.222710088     </BIAS>
+ <RMSE>  0.973906040     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.99999991E-02 </MEAN_OBS>
+ <STDV_OBS>  0.143398836     </STDV_OBS>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.143731028     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.151120469     </BIAS>
+ <RMSE>  0.215783596     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.151155993     </BIAS>
+ <RMSE>  0.215951100     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.104000002     </MEAN_OBS>
+ <STDV_OBS>  0.485481530     </STDV_OBS>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.232864305     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.305011630     </BIAS>
+ <RMSE>  0.826990247     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.303164095     </BIAS>
+ <RMSE>  0.830956936     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.272000015     </MEAN_OBS>
+ <STDV_OBS>  0.544551253     </STDV_OBS>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.291966140     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.554586887     </BIAS>
+ <RMSE>  0.734113574     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.554722667     </BIAS>
+ <RMSE>  0.734033525     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.20000015E-02 </MEAN_OBS>
+ <STDV_OBS>  0.550790966     </STDV_OBS>
+ <EXP>
+ <ID>        6418 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.180271119     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.519388378     </BIAS>
+ <RMSE>  0.244765133     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6418 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.523599863     </BIAS>
+ <RMSE>  0.243215725     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.00000038E-03 </MEAN_OBS>
+ <STDV_OBS>   1.13429120E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6464 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   4.25497815E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   2.72700377E-02 </BIAS>
+ <RMSE>  0.192389101     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6464 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.71271020E-02 </BIAS>
+ <RMSE>  0.205028489     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.311999977     </MEAN_OBS>
+ <STDV_OBS>   1.04380500     </STDV_OBS>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.269129544     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.545237601     </BIAS>
+ <RMSE>  0.890376389     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.545754910     </BIAS>
+ <RMSE>  0.890734434     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.839999974     </MEAN_OBS>
+ <STDV_OBS>   1.51374745     </STDV_OBS>
+ <EXP>
+ <ID>        3002 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.653440535     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.676706672     </BIAS>
+ <RMSE>  0.885832012     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3002 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.706488609     </BIAS>
+ <RMSE>  0.880541503     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.09599984     </MEAN_OBS>
+ <STDV_OBS>   2.00534201     </STDV_OBS>
+ <EXP>
+ <ID>        3008 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.865747809     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.613900542     </BIAS>
+ <RMSE>  0.950120330     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3008 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.626909375     </BIAS>
+ <RMSE>  0.948948205     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.14400005     </MEAN_OBS>
+ <STDV_OBS>   1.74275577     </STDV_OBS>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.805436611     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.672982991     </BIAS>
+ <RMSE>  0.985378683     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.690919459     </BIAS>
+ <RMSE>  0.984614730     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.895999968     </MEAN_OBS>
+ <STDV_OBS>   1.52279723     </STDV_OBS>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.629437923     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.673861384     </BIAS>
+ <RMSE>  0.901225865     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.679092109     </BIAS>
+ <RMSE>  0.899881721     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.767999947     </MEAN_OBS>
+ <STDV_OBS>   1.89419377     </STDV_OBS>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.566338897     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.796587110     </BIAS>
+ <RMSE>  0.904338539     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.795532465     </BIAS>
+ <RMSE>  0.904083967     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.216666624     </MEAN_OBS>
+ <STDV_OBS>  0.212578341     </STDV_OBS>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>REF</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>  0.123137623     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.454320788     </BIAS>
+ <RMSE>  0.587778926     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.455261618     </BIAS>
+ <RMSE>  0.584461927     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.591999948     </MEAN_OBS>
+ <STDV_OBS>   1.94511163     </STDV_OBS>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.488059342     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.659719348     </BIAS>
+ <RMSE>  0.942488730     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.661472023     </BIAS>
+ <RMSE>  0.942406356     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.335999966     </MEAN_OBS>
+ <STDV_OBS>   1.34267223     </STDV_OBS>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.424347818     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.982800782     </BIAS>
+ <RMSE>  0.752703607     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.976670980     </BIAS>
+ <RMSE>  0.752719641     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.233333349     </MEAN_OBS>
+ <STDV_OBS>  0.343546718     </STDV_OBS>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>REF</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>  0.107736193     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.415976644     </BIAS>
+ <RMSE>  0.701923490     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          24 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.416639328     </BIAS>
+ <RMSE>  0.700916052     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.487999946     </MEAN_OBS>
+ <STDV_OBS>  0.322510719     </STDV_OBS>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.194379732     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.914573491     </BIAS>
+ <RMSE>  0.319409162     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.917845488     </BIAS>
+ <RMSE>  0.309647799     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.383999974     </MEAN_OBS>
+ <STDV_OBS>  0.278919011     </STDV_OBS>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.173353970     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.498876035     </BIAS>
+ <RMSE>  0.737960517     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.496766418     </BIAS>
+ <RMSE>  0.747631311     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.415999979     </MEAN_OBS>
+ <STDV_OBS>  0.940405250     </STDV_OBS>
+ <EXP>
+ <ID>        6407 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.312389433     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.780304551     </BIAS>
+ <RMSE>  0.697652996     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6407 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.797415972     </BIAS>
+ <RMSE>  0.697186291     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.08542731E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6450 </ID>
+ <NAME>REF</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   8.32720101E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.02605894E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6450 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00491047E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108000003     </MEAN_OBS>
+ <STDV_OBS>   1.11766219     </STDV_OBS>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.500019550     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.981415808     </BIAS>
+ <RMSE>  0.651736200     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.965327680     </BIAS>
+ <RMSE>  0.653727174     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.00000038E-03 </MEAN_OBS>
+ <STDV_OBS>   1.06236017     </STDV_OBS>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.498229474     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.03414917     </BIAS>
+ <RMSE>  0.956283867     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01504982     </BIAS>
+ <RMSE>  0.953912616     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.69565271E-03 </MEAN_OBS>
+ <STDV_OBS>   6.94506913E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>REF</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   8.60480145E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   6.39216751E-02 </BIAS>
+ <RMSE>  0.362235427     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.29000068E-02 </BIAS>
+ <RMSE>  0.379126728     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.59999934E-02 </MEAN_OBS>
+ <STDV_OBS>  0.192885354     </STDV_OBS>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.185992107     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.239976168     </BIAS>
+ <RMSE>  0.217295945     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.245017856     </BIAS>
+ <RMSE>  0.203012943     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.175999999     </MEAN_OBS>
+ <STDV_OBS>  0.526466966     </STDV_OBS>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.340672940     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.422011077     </BIAS>
+ <RMSE>  0.570750117     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.426223040     </BIAS>
+ <RMSE>  0.572413445     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.79999990E-02 </MEAN_OBS>
+ <STDV_OBS>  0.148745254     </STDV_OBS>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.172730744     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.115477465     </BIAS>
+ <RMSE>  0.600275517     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.117852591     </BIAS>
+ <RMSE>  0.591246367     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.80000004E-02 </MEAN_OBS>
+ <STDV_OBS>  0.608315170     </STDV_OBS>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.328350246     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.467402071     </BIAS>
+ <RMSE>  0.844927073     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.466197580     </BIAS>
+ <RMSE>  0.847267985     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.235999987     </MEAN_OBS>
+ <STDV_OBS>  0.739127338     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.541479647     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.537351251     </BIAS>
+ <RMSE>  0.668089747     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.542310536     </BIAS>
+ <RMSE>  0.666267812     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.412000030     </MEAN_OBS>
+ <STDV_OBS>  0.884402871     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.379103035     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.305480689     </BIAS>
+ <RMSE>  0.974557817     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.300128341     </BIAS>
+ <RMSE>  0.975233614     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.267999917     </MEAN_OBS>
+ <STDV_OBS>   1.13543797     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.650311589     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.598520219     </BIAS>
+ <RMSE>  0.943675160     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.621870041     </BIAS>
+ <RMSE>  0.946400702     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100000001     </MEAN_OBS>
+ <STDV_OBS>  0.192804828     </STDV_OBS>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>REF</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>  0.141012609     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.144006506     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.136333615     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125000000     </MEAN_OBS>
+ <STDV_OBS>  0.142462894     </STDV_OBS>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>REF</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.172194391     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.186068401     </BIAS>
+ <RMSE>  0.272324115     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.180855095     </BIAS>
+ <RMSE>  0.272931516     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.500000000     </MEAN_OBS>
+ <STDV_OBS>  0.115730852     </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>REF</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>  0.337371171     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.415243149     </BIAS>
+ <RMSE> -0.909175456     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.386541009     </BIAS>
+ <RMSE> -0.820957065     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.166666672     </MEAN_OBS>
+ <STDV_OBS>  0.164704010     </STDV_OBS>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>REF</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>  0.239133462     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.230359033     </BIAS>
+ <RMSE> -0.496115386     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.210612223     </BIAS>
+ <RMSE> -0.453686684     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.174999997     </MEAN_OBS>
+ <STDV_OBS>  0.199200422     </STDV_OBS>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>REF</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.311072230     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.220447078     </BIAS>
+ <RMSE>  0.181949645     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.253943443     </BIAS>
+ <RMSE>   3.16890143E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.200000003     </MEAN_OBS>
+ <STDV_OBS>  0.298849016     </STDV_OBS>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>REF</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>  0.651280522     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.299409181     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.258810788     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.366666645     </MEAN_OBS>
+ <STDV_OBS>  0.468266815     </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>REF</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>  0.508174896     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.248849601     </BIAS>
+ <RMSE>  0.821585774     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.251218408     </BIAS>
+ <RMSE>  0.812117755     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.400000006     </MEAN_OBS>
+ <STDV_OBS>  0.170942724     </STDV_OBS>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>REF</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>  0.689554513     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.142873645     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.148040593     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.150000006     </MEAN_OBS>
+ <STDV_OBS>  0.121929564     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>REF</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>  0.239110097     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.250316322     </BIAS>
+ <RMSE> -0.958502352     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.252101779     </BIAS>
+ <RMSE> -0.944029689     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000028E-02 </MEAN_OBS>
+ <STDV_OBS>  0.120290920     </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>REF</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   5.63643761E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.136007801     </BIAS>
+ <RMSE> -0.106195696     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.128903627     </BIAS>
+ <RMSE> -0.106717423     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.690700233     </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>REF</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.526165128     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.630072176     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.646090865     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.453846186     </MEAN_OBS>
+ <STDV_OBS>  0.436259091     </STDV_OBS>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>REF</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>  0.349235982     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.225616828     </BIAS>
+ <RMSE>  0.859279633     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.209797665     </BIAS>
+ <RMSE>  0.871398985     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.50000030E-02 </MEAN_OBS>
+ <STDV_OBS>  0.532318652     </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>REF</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.535337925     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.464842826     </BIAS>
+ <RMSE>  0.630174041     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.472282559     </BIAS>
+ <RMSE>  0.620713949     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.809090972     </MEAN_OBS>
+ <STDV_OBS>  0.231123477     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>REF</NAME>
+ <NUM>          11 </NUM>
+ <MEAN>  0.205609843     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.02886784     </BIAS>
+ <RMSE>  0.361920089     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          11 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.01300228     </BIAS>
+ <RMSE>  0.427778453     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.06666660     </MEAN_OBS>
+ <STDV_OBS>  0.415543377     </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>REF</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>  0.658497930     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.655025780     </BIAS>
+ <RMSE>  0.459429562     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.636874914     </BIAS>
+ <RMSE>  0.502115130     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.250000000     </MEAN_OBS>
+ <STDV_OBS>   4.22798619E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>REF</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   4.72077765E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.263298124     </BIAS>
+ <RMSE> -0.366393238     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.267213911     </BIAS>
+ <RMSE> -0.413081944     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.400000006     </MEAN_OBS>
+ <STDV_OBS>   8.87613520E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>REF</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   9.21915472E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   6.89124465E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           2 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.27637878E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.414285749     </MEAN_OBS>
+ <STDV_OBS>  0.172318682     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>REF</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>  0.248363256     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.169164389     </BIAS>
+ <RMSE>  0.927701056     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.175902188     </BIAS>
+ <RMSE>  0.928102612     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.628571391     </MEAN_OBS>
+ <STDV_OBS>  0.240758285     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>REF</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>  0.165182471     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.508160055     </BIAS>
+ <RMSE>  0.758354962     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.504962146     </BIAS>
+ <RMSE>  0.767266572     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.683333337     </MEAN_OBS>
+ <STDV_OBS>  0.253881961     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>REF</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>  0.226037353     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.551046252     </BIAS>
+ <RMSE>  0.585283458     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.549495041     </BIAS>
+ <RMSE>  0.590439618     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.357142866     </MEAN_OBS>
+ <STDV_OBS>  0.518363237     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>REF</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>  0.760180295     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.484817952     </BIAS>
+ <RMSE>  0.442386329     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          14 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.470215559     </BIAS>
+ <RMSE>  0.468106866     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.157894716     </MEAN_OBS>
+ <STDV_OBS>  0.266657501     </STDV_OBS>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>REF</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>  0.258867204     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.164044991     </BIAS>
+ <RMSE>  0.841669679     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          19 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.160363197     </BIAS>
+ <RMSE>  0.848681390     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.15384690E-02 </MEAN_OBS>
+ <STDV_OBS>  0.467727065     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>REF</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>  0.309301972     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.450534642     </BIAS>
+ <RMSE>  0.115605794     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          13 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.448071212     </BIAS>
+ <RMSE>   9.97740328E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.699999988     </MEAN_OBS>
+ <STDV_OBS>  0.203866482     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>REF</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>  0.138907269     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.874348462     </BIAS>
+ <RMSE>  0.919452131     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          12 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.869947672     </BIAS>
+ <RMSE>  0.917774677     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.320000023     </MEAN_OBS>
+ <STDV_OBS>  0.307616889     </STDV_OBS>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>REF</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>  0.191362604     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.112680346     </BIAS>
+ <RMSE>  0.932706416     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          10 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.111580104     </BIAS>
+ <RMSE>  0.927200019     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.26666665     </MEAN_OBS>
+ <STDV_OBS>  0.287526757     </STDV_OBS>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>REF</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>  0.192533851     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.966844916     </BIAS>
+ <RMSE>  0.998341501     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.963625669     </BIAS>
+ <RMSE>  0.998656273     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.200000003     </MEAN_OBS>
+ <STDV_OBS>  0.187257484     </STDV_OBS>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>REF</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>  0.174700931     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.344711661     </BIAS>
+ <RMSE> -0.785916448     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.345176041     </BIAS>
+ <RMSE> -0.814693809     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.200000003     </MEAN_OBS>
+ <STDV_OBS>  0.429811090     </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>REF</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>  0.322866321     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.301792145     </BIAS>
+ <RMSE>  0.881842792     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           4 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.289826334     </BIAS>
+ <RMSE>  0.867129624     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.145454556     </MEAN_OBS>
+ <STDV_OBS>  0.204308480     </STDV_OBS>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>REF</NAME>
+ <NUM>          11 </NUM>
+ <MEAN>  0.143259242     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.212758228     </BIAS>
+ <RMSE>  0.417443305     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          11 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.211465314     </BIAS>
+ <RMSE>  0.431391954     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.04999995     </MEAN_OBS>
+ <STDV_OBS>   1.18377411     </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>REF</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.991933167     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.566725314     </BIAS>
+ <RMSE>  0.859719396     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.553604603     </BIAS>
+ <RMSE>  0.866092503     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.528571486     </MEAN_OBS>
+ <STDV_OBS>  0.272050023     </STDV_OBS>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>REF</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>  0.175406054     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.236224502     </BIAS>
+ <RMSE>  0.803280771     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.236297444     </BIAS>
+ <RMSE>  0.809299231     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.524999976     </MEAN_OBS>
+ <STDV_OBS>  0.188029096     </STDV_OBS>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>REF</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.129769117     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.294229031     </BIAS>
+ <RMSE>  0.678131580     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.294997662     </BIAS>
+ <RMSE>  0.673427105     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.47499990     </MEAN_OBS>
+ <STDV_OBS>  0.324237555     </STDV_OBS>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>REF</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>  0.252411783     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.20820343     </BIAS>
+ <RMSE>  0.935192108     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.19667065     </BIAS>
+ <RMSE>  0.944047332     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.14285719     </MEAN_OBS>
+ <STDV_OBS>  0.328575969     </STDV_OBS>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>REF</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>  0.311384499     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.326004982     </BIAS>
+ <RMSE>  0.913129985     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>           7 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.313624173     </BIAS>
+ <RMSE>  0.924868047     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.506666720     </MEAN_OBS>
+ <STDV_OBS>  0.291311979     </STDV_OBS>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>REF</NAME>
+ <NUM>          15 </NUM>
+ <MEAN>  0.204765677     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.458297521     </BIAS>
+ <RMSE>  0.866852999     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          15 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.456666648     </BIAS>
+ <RMSE>  0.871662199     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.113333344     </MEAN_OBS>
+ <STDV_OBS>  0.271319002     </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>REF</NAME>
+ <NUM>          15 </NUM>
+ <MEAN>  0.284510761     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.198955193     </BIAS>
+ <RMSE>  0.661933720     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          15 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.194945663     </BIAS>
+ <RMSE>  0.680105329     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.175999984     </MEAN_OBS>
+ <STDV_OBS>  0.296453655     </STDV_OBS>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.251509190     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.266718775     </BIAS>
+ <RMSE>  0.764231741     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.263386607     </BIAS>
+ <RMSE>  0.770495772     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.40000002E-02 </MEAN_OBS>
+ <STDV_OBS>  0.339726180     </STDV_OBS>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.202549189     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.280336261     </BIAS>
+ <RMSE>  0.876934052     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.282757521     </BIAS>
+ <RMSE>  0.879723668     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.432000041     </MEAN_OBS>
+ <STDV_OBS>  0.682838321     </STDV_OBS>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.373889774     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.430165410     </BIAS>
+ <RMSE>  0.981749535     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.432049304     </BIAS>
+ <RMSE>  0.984625220     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.57293449E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26501 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   2.81784162E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   3.47960480E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26501 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.50074656E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.20000015E-02 </MEAN_OBS>
+ <STDV_OBS>   4.54303697E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26515 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   3.73602621E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.168448880     </BIAS>
+ <RMSE> -0.129581884     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26515 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.168329790     </BIAS>
+ <RMSE> -0.127366826     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.58745311E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26529 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.18349316E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.55617232E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26529 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55537985E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   9.06155109E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26547 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   6.69517741E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   8.83544460E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26547 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.87847021E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.36195640E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26600 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   2.42133699E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   3.28992978E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26600 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.29403132E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.36722222E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26621 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   4.13345695E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   6.10977150E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26621 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.23857863E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.47490604E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26634 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.15461489E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.43261440E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26634 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.44510679E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.44879490E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26636 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   5.28505109E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   6.29051030E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26636 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.31850362E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.60000008E-02 </MEAN_OBS>
+ <STDV_OBS>   4.08270098E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26714 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   2.44453065E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   2.42981371E-02 </BIAS>
+ <RMSE>  0.905779660     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26714 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.54859645E-02 </BIAS>
+ <RMSE>  0.897190690     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.18147801E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26737 </ID>
+ <NAME>REF</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   2.94180103E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   3.11864484E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26737 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.11154667E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.60800016     </MEAN_OBS>
+ <STDV_OBS>   2.23840427     </STDV_OBS>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.887158811     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.22108960     </BIAS>
+ <RMSE>  0.848562837     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.21431816     </BIAS>
+ <RMSE>  0.848241031     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.89423058E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6400 </ID>
+ <NAME>REF</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   9.70418472E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.83315184E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6400 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.84626766E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.70922540E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12100 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   6.26405003E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.63336303E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12100 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.67469215E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.05183627E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12105 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   4.15313710E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.01710353E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12105 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.03058489E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.805790842     </STDV_OBS>
+ <EXP>
+ <ID>       12120 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.234412074     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.791413844     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12120 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.789510548     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.40000002E-02 </MEAN_OBS>
+ <STDV_OBS>  0.403909057     </STDV_OBS>
+ <EXP>
+ <ID>       12125 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.118598424     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.319034040     </BIAS>
+ <RMSE>  0.983554959     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12125 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.316051871     </BIAS>
+ <RMSE>  0.983447850     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.31732345E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12135 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   3.43720578E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   6.32091463E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12135 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.18968755E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000019E-03 </MEAN_OBS>
+ <STDV_OBS>   2.43544579E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12155 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.17230387E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   2.09647920E-02 </BIAS>
+ <RMSE>  0.563151538     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12155 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06677318E-02 </BIAS>
+ <RMSE>  0.562716663     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000019E-03 </MEAN_OBS>
+ <STDV_OBS>   6.25537857E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12160 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   2.55151987E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   6.57464415E-02 </BIAS>
+ <RMSE>  -8.32369998E-02 </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12160 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.58798143E-02 </BIAS>
+ <RMSE>  -8.31337646E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   9.05608088E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12185 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   5.52160144E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   8.82217288E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12185 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.87311101E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   9.04306397E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12195 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   6.73416629E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   8.98385569E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12195 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.86035636E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.74248330E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12200 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   6.85298303E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.71452817E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12200 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.70727801E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   8.74945521E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12205 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   2.84805242E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   8.42815116E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12205 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.57267976E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.05634646E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12210 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   6.11735322E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   2.00565401E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12210 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.01479997E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.16483842E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12215 </ID>
+ <NAME>REF</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   1.95400827E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   4.06704806E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12215 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          22 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.06908244E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.47402336E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12230 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.65553428E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   4.45011891E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12230 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.38362956E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.00937828E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12235 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   3.52143198E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   5.87778874E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12235 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.88796362E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.00000038E-03 </MEAN_OBS>
+ <STDV_OBS>   5.62984981E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12250 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   2.53578946E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   5.15933335E-02 </BIAS>
+ <RMSE>  0.440713435     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12250 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.20812050E-02 </BIAS>
+ <RMSE>  0.431638956     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.01799525E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12270 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   2.96917427E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   5.83002232E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12270 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.89640699E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.93986031E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12272 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.96428634E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   3.82715538E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12272 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.86025906E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.201558396     </STDV_OBS>
+ <EXP>
+ <ID>       12280 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.113380037     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.196522519     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12280 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.197486088     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.98265976E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12285 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   3.08931060E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   5.73884472E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12285 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.86178489E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   9.88062471E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12295 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   4.45938706E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   9.70885605E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12295 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.68099609E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.43616530E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12310 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.04507776E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   3.35984118E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12310 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.36674042E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.97000462E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12330 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.14630973E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   3.85662355E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12330 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.88979428E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.20000015E-02 </MEAN_OBS>
+ <STDV_OBS>   2.72201393E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12345 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   9.12589673E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.107693195     </BIAS>
+ <RMSE>  0.151895151     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12345 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.107759729     </BIAS>
+ <RMSE>  0.151189804     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.22035088E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12375 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   6.35438506E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   2.11486220E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12375 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.17549074E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.44162336E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12385 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   4.87667229E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.39039960E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12385 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41249672E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.00000038E-03 </MEAN_OBS>
+ <STDV_OBS>   5.62073104E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12399 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.82914045E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   2.91867778E-02 </BIAS>
+ <RMSE>  0.966752529     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12399 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.97545791E-02 </BIAS>
+ <RMSE>  0.965008438     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.16522256E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12400 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   3.67736211E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.12422565E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12400 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.14168022E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.80768650E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12418 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   5.28253522E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.74054801E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12418 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.77116375E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.99999991E-02 </MEAN_OBS>
+ <STDV_OBS>   1.82317719E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12435 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   6.36322843E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.130694464     </BIAS>
+ <RMSE>  0.342831790     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12435 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.131697670     </BIAS>
+ <RMSE>  0.283690274     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.13238518E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12465 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.39235156E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   4.07893844E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12465 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.04889397E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.59999980E-02 </MEAN_OBS>
+ <STDV_OBS>   3.65892635E-03 </STDV_OBS>
+ <EXP>
+ <ID>       12488 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   9.08689457E-04 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.186910108     </BIAS>
+ <RMSE>  0.865057886     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12488 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.186832696     </BIAS>
+ <RMSE>  0.859557927     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.99999991E-02 </MEAN_OBS>
+ <STDV_OBS>   6.95582628E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12497 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.49735911E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   9.99168381E-02 </BIAS>
+ <RMSE>  0.712864041     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12497 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.93937030E-02 </BIAS>
+ <RMSE>  0.712067127     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.40000030E-02 </MEAN_OBS>
+ <STDV_OBS>  0.508699536     </STDV_OBS>
+ <EXP>
+ <ID>       12115 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>  0.142962620     </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>  0.298118025     </BIAS>
+ <RMSE>  0.944756806     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12115 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.302411944     </BIAS>
+ <RMSE>  0.943266332     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.00000038E-03 </MEAN_OBS>
+ <STDV_OBS>   4.37307395E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12300 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.65182631E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   5.28637022E-02 </BIAS>
+ <RMSE> -0.113617852     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12300 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.32557517E-02 </BIAS>
+ <RMSE> -0.113682330     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   7.76116773E-02 </STDV_OBS>
+ <EXP>
+ <ID>       12360 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   3.31232212E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   7.54933432E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       12360 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.60436058E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.53496729E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26729 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   2.03644987E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   2.42448878E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26729 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.48375051E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.22595996E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26518 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   5.44662215E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   6.11720346E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26518 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.10017031E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.57551016E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26524 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   2.93804947E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   3.49375159E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26524 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.50327007E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.05644872E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26531 </ID>
+ <NAME>REF</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   1.36434333E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   2.02039834E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26531 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          25 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.01490000E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.49599463E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26629 </ID>
+ <NAME>REF</NAME>
+ <NUM>          21 </NUM>
+ <MEAN>   9.35750548E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   1.47050861E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26629 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          21 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.45994127E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.60436293E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26633 </ID>
+ <NAME>REF</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   1.72890890E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   2.50470471E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26633 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.54711695E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.25115733E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26730 </ID>
+ <NAME>REF</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   2.98340376E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   3.16083804E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26730 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.17969434E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.02390400E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26509 </ID>
+ <NAME>REF</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   2.19050590E-02 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   3.06826010E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26509 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.94733718E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.67827716E-02 </STDV_OBS>
+ <EXP>
+ <ID>       33135 </ID>
+ <NAME>REF</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   9.72805824E-03 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   2.65082885E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33135 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          23 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.61940677E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.07995486E-04 </STDV_OBS>
+ <EXP>
+ <ID>       33088 </ID>
+ <NAME>REF</NAME>
+ <NUM>          21 </NUM>
+ <MEAN>   3.81910213E-04 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   5.35386382E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33088 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          21 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.95752785E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.50342272E-03 </STDV_OBS>
+ <EXP>
+ <ID>       33261 </ID>
+ <NAME>REF</NAME>
+ <NUM>          21 </NUM>
+ <MEAN>   7.64509488E-04 </MEAN>
+ <STDV>   53.6928711     </STDV>
+ <BIAS>   3.50042596E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   53.4260864     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       33261 </ID>
+ <NAME>T2H2</NAME>
+ <NUM>          21 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.41899018E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
